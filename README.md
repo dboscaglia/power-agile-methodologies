@@ -69,7 +69,7 @@ Este README ha sido elaborado a partir del siguiente artículo:
 -   **Título:** *El poder de las metodologías ágiles en la gestión*
 -   **Autor:** Diego Boscaglia
 -   **Publicación:** LinkedIn Pulse
--   **Enlace:** [https://www.linkedin.com/pulse/el-poder-de-las-metodolog%C3%ADas-%C3%A1giles-en-la-gesti%C3%B3n-diego-boscaglia/](https://www.linkedin.com/pulse/el-poder-de-las-metodolog%C3%ADas-%C3%A1giles-en-la-gesti%C3%B3n-diego-boscaglia/)
+  
 
 ---
 
